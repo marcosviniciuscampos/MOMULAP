@@ -1,0 +1,1905 @@
+Objective Functions
+1 -683237.0
+2 -3171390.6486
+3 -0.2943471238618995
+
+
+Mammography Units: 
+
+Mammography Unit 0 installed at Abreu e Lima  => idle service 0
+
+Abreu e Lima => 6758/8706
+
+Mammography Unit 1 installed at Recife  => idle service 0
+
+Recife => 6758/150838
+
+Mammography Unit 2 installed at Araripina  => idle service 1496
+
+Araripina => 5262/5262
+
+Mammography Unit 3 installed at Jaboatão dos Guararapes  => idle service 0
+
+Jaboatão dos Guararapes => 6758/59717
+
+Mammography Unit 4 installed at Paulista  => idle service 0
+
+Paulista => 6758/29457
+
+Mammography Unit 5 installed at Recife  => idle service 0
+
+Recife => 6758/150838
+
+Mammography Unit 6 installed at Caetés  => idle service 0
+
+Brejão => 620/620
+Caetés => 1703/1703
+Capoeiras => 1345/1345
+Jucati => 705/705
+Jupi => 403/969
+Paranatama => 779/779
+Venturosa => 1203/1203
+
+Mammography Unit 7 installed at Recife  => idle service 0
+
+Recife => 6758/150838
+
+Mammography Unit 8 installed at Garanhuns  => idle service 0
+
+Garanhuns => 6758/10535
+
+Mammography Unit 9 installed at Bom Conselho  => idle service 0
+
+Bom Conselho => 3266/3266
+Correntes => 1016/1237
+Lagoa do Ouro => 873/873
+Saloá => 1121/1121
+Terezinha => 482/482
+
+Mammography Unit 10 installed at Recife  => idle service 0
+
+Recife => 6758/150838
+
+Mammography Unit 11 installed at Camaragibe  => idle service 0
+
+Camaragibe => 6758/12977
+
+Mammography Unit 12 installed at Jaboatão dos Guararapes  => idle service 0
+
+Jaboatão dos Guararapes => 6758/59717
+
+Mammography Unit 13 installed at Recife  => idle service 0
+
+Recife => 6758/150838
+
+Mammography Unit 14 installed at Petrolina  => idle service 0
+
+Petrolina => 6758/21562
+
+Mammography Unit 15 installed at Petrolina  => idle service 0
+
+Petrolina => 6758/21562
+
+Mammography Unit 16 installed at Camaragibe  => idle service 0
+
+Camaragibe => 6219/12977
+São Lourenço da Mata => 539/8666
+
+Mammography Unit 17 installed at Recife  => idle service 0
+
+Recife => 6758/150838
+
+Mammography Unit 18 installed at Recife  => idle service 0
+
+Recife => 6758/150838
+
+Mammography Unit 19 installed at Vitória de Santo Antão  => idle service 0
+
+Vitória de Santo Antão => 6758/10902
+
+Mammography Unit 20 installed at Olinda  => idle service 0
+
+Olinda => 6758/36518
+
+Mammography Unit 21 installed at Cabo de Santo Agostinho  => idle service 0
+
+Cabo de Santo Agostinho => 6758/15180
+
+Mammography Unit 22 installed at Olinda  => idle service 0
+
+Olinda => 6758/36518
+
+Mammography Unit 23 installed at Santa Cruz do Capibaribe  => idle service 0
+
+Santa Cruz do Capibaribe => 6310/6310
+Toritama => 448/2313
+
+Mammography Unit 24 installed at Iati  => idle service 5548
+
+Iati => 1210/1210
+
+Mammography Unit 25 installed at Ouricuri  => idle service 1646
+
+Ouricuri => 4261/4261
+Santa Cruz => 851/851
+
+Mammography Unit 26 installed at Recife  => idle service 0
+
+Recife => 6758/150838
+
+Mammography Unit 27 installed at Barreiros  => idle service 0
+
+Barreiros => 3002/3002
+Rio Formoso => 1036/1565
+São José da Coroa Grande => 1322/1322
+Tamandaré => 1398/1398
+
+Mammography Unit 28 installed at Recife  => idle service 0
+
+Recife => 6758/150838
+
+Mammography Unit 29 installed at Recife  => idle service 0
+
+Recife => 6758/150838
+
+Mammography Unit 30 installed at Recife  => idle service 0
+
+Recife => 6758/150838
+
+Mammography Unit 31 installed at Jaboatão dos Guararapes  => idle service 0
+
+Jaboatão dos Guararapes => 6758/59717
+
+Mammography Unit 32 installed at Passira  => idle service 0
+
+Cumaru => 1314/1314
+Feira Nova => 175/1626
+João Alfredo => 2310/2310
+Passira => 2280/2280
+Salgadinho => 679/679
+
+Mammography Unit 33 installed at Timbaúba  => idle service 0
+
+Camutanga => 611/611
+Ferreiros => 867/867
+Macaparana => 935/1772
+Timbaúba => 4345/4345
+
+Mammography Unit 34 installed at Gravatá  => idle service 0
+
+Chã Grande => 522/1461
+Gravatá => 6236/6236
+
+Mammography Unit 35 installed at São Lourenço da Mata  => idle service 0
+
+São Lourenço da Mata => 6758/8666
+
+Mammography Unit 36 installed at Limoeiro  => idle service 0
+
+Feira Nova => 1451/1626
+Lagoa do Carro => 578/1282
+Limoeiro => 4729/4729
+
+Mammography Unit 37 installed at Goiana  => idle service 0
+
+Condado => 514/1858
+Goiana => 6244/6244
+
+Mammography Unit 38 installed at Lajedo  => idle service 0
+
+Calçado => 754/754
+Canhotinho => 1197/1671
+Ibirajuba => 511/511
+Jupi => 566/969
+Jurema => 973/973
+Lajedo => 2757/2757
+
+Mammography Unit 39 installed at Jaboatão dos Guararapes  => idle service 0
+
+Jaboatão dos Guararapes => 6758/59717
+
+Mammography Unit 40 installed at Sertânia  => idle service 3292
+
+Iguaracy => 909/909
+Sertânia => 2557/2557
+
+Mammography Unit 41 installed at Olinda  => idle service 0
+
+Olinda => 6758/36518
+
+Mammography Unit 42 installed at Cabo de Santo Agostinho  => idle service 0
+
+Cabo de Santo Agostinho => 6758/15180
+
+Mammography Unit 43 installed at Jaboatão dos Guararapes  => idle service 0
+
+Jaboatão dos Guararapes => 6758/59717
+
+Mammography Unit 44 installed at Jaboatão dos Guararapes  => idle service 0
+
+Jaboatão dos Guararapes => 6758/59717
+
+Mammography Unit 45 installed at Quipapá  => idle service 0
+
+Canhotinho => 474/1671
+Cupira => 1775/1775
+Jaqueira => 114/747
+Panelas => 1701/1701
+Quipapá => 1737/1737
+São Benedito do Sul => 957/957
+
+Mammography Unit 46 installed at Flores  => idle service 724
+
+Calumbi => 419/419
+Carnaíba => 1393/1393
+Flores => 1669/1669
+Quixaba => 479/479
+Santa Cruz da Baixa Verde => 857/857
+Triunfo => 1217/1217
+
+Mammography Unit 47 installed at Caruaru  => idle service 0
+
+Caruaru => 6758/26298
+
+Mammography Unit 48 installed at Ipojuca  => idle service 0
+
+Cabo de Santo Agostinho => 1166/15180
+Ipojuca => 5592/5592
+
+Mammography Unit 49 installed at Olinda  => idle service 0
+
+Olinda => 6758/36518
+
+Mammography Unit 50 installed at São Bento do Una  => idle service 0
+
+Pesqueira => 553/4961
+Sanharó => 1596/1596
+São Bento do Una => 3696/3696
+Tacaimbó => 913/913
+
+Mammography Unit 51 installed at Catende  => idle service 0
+
+Água Preta => 769/2214
+Belém de Maria => 727/727
+Catende => 2807/2807
+Jaqueira => 633/747
+Joaquim Nabuco => 1063/1063
+Maraial => 759/759
+
+Mammography Unit 52 installed at Igarassu  => idle service 0
+
+Igarassu => 6758/8724
+
+Mammography Unit 53 installed at Vitória de Santo Antão  => idle service 0
+
+Chã de Alegria => 752/914
+Pombos => 1862/1862
+Vitória de Santo Antão => 4144/10902
+
+Mammography Unit 54 installed at Paulista  => idle service 0
+
+Paulista => 6758/29457
+
+Mammography Unit 55 installed at Arcoverde  => idle service 0
+
+Arcoverde => 5545/5545
+Pedra => 1213/1477
+
+Mammography Unit 56 installed at Recife  => idle service 0
+
+Recife => 6758/150838
+
+Mammography Unit 57 installed at Caruaru  => idle service 0
+
+Caruaru => 6758/26298
+
+Mammography Unit 58 installed at Bodocó  => idle service 1076
+
+Bodocó => 2309/2309
+Exu => 2156/2156
+Granito => 460/460
+Moreilândia => 757/757
+
+Mammography Unit 59 installed at São José do Egito  => idle service 512
+
+Brejinho => 537/537
+Ingazeira => 336/336
+Itapetim => 1087/1087
+Santa Terezinha => 771/771
+São José do Egito => 2485/2485
+Solidão => 395/395
+Tuparetama => 635/635
+
+Mammography Unit 60 installed at Olinda  => idle service 0
+
+Olinda => 6758/36518
+
+Mammography Unit 61 installed at Buíque  => idle service 1618
+
+Buíque => 3341/3341
+Pedra => 264/1477
+Tupanatinga => 1535/1535
+
+Mammography Unit 62 installed at Escada  => idle service 0
+
+Cabo de Santo Agostinho => 498/15180
+Escada => 4888/4888
+Gameleira => 452/1843
+Primavera => 920/920
+
+Mammography Unit 63 installed at Recife  => idle service 0
+
+Recife => 6758/150838
+
+Mammography Unit 64 installed at Carpina  => idle service 0
+
+Carpina => 6637/6637
+Lagoa do Carro => 121/1282
+
+Mammography Unit 65 installed at Recife  => idle service 0
+
+Recife => 6758/150838
+
+Mammography Unit 66 installed at Recife  => idle service 0
+
+Recife => 6758/150838
+
+Mammography Unit 67 installed at Nazaré da Mata  => idle service 0
+
+Buenos Aires => 945/945
+Itaquitinga => 1138/1138
+Lagoa do Carro => 583/1282
+Lagoa de Itaenga => 340/1513
+Nazaré da Mata => 2763/2763
+Tracunhaém => 989/989
+
+Mammography Unit 68 installed at Caruaru  => idle service 0
+
+Caruaru => 6758/26298
+
+Mammography Unit 69 installed at Olinda  => idle service 0
+
+Olinda => 2728/36518
+Paulista => 1868/29457
+Recife => 2162/150838
+
+Mammography Unit 70 installed at Tabira  => idle service 4780
+
+Tabira => 1978/1978
+
+Mammography Unit 71 installed at Bom Jardim  => idle service 0
+
+Bom Jardim => 2888/2888
+Casinhas => 967/967
+Machados => 956/956
+Orobó => 1701/1701
+Vertente do Lério => 246/577
+
+Mammography Unit 72 installed at Moreno  => idle service 0
+
+Jaboatão dos Guararapes => 2002/59717
+Moreno => 4756/4756
+
+Mammography Unit 73 installed at Recife  => idle service 0
+
+Recife => 6758/150838
+
+Mammography Unit 74 installed at Trindade  => idle service 5059
+
+Trindade => 1699/1699
+
+Mammography Unit 75 installed at Itambé  => idle service 2024
+
+Condado => 1344/1858
+Itambé => 2553/2553
+Macaparana => 837/1772
+
+Mammography Unit 76 installed at Paulista  => idle service 0
+
+Paulista => 6758/29457
+
+Mammography Unit 77 installed at Vicência  => idle service 1924
+
+Chã de Alegria => 162/914
+Lagoa de Itaenga => 1173/1513
+São Vicente Férrer => 1195/1195
+Vicência => 2304/2304
+
+Mammography Unit 78 installed at Aliança  => idle service 3905
+
+Aliança => 2853/2853
+
+Mammography Unit 79 installed at Serra Talhada  => idle service 584
+
+Serra Talhada => 6174/6174
+
+Mammography Unit 80 installed at Cachoeirinha  => idle service 1083
+
+Altinho => 1722/1722
+Cachoeirinha => 1431/1431
+São Caitano => 2522/2522
+
+Mammography Unit 81 installed at Ribeirão  => idle service 0
+
+Cortês => 866/866
+Gameleira => 1391/1843
+Ribeirão => 3406/3406
+Sirinhaém => 1095/2630
+
+Mammography Unit 82 installed at Ipubi  => idle service 5036
+
+Ipubi => 1722/1722
+
+Mammography Unit 83 installed at Caruaru  => idle service 0
+
+Caruaru => 6024/26298
+Riacho das Almas => 734/1426
+
+Mammography Unit 84 installed at Cabrobó  => idle service 3122
+
+Cabrobó => 2142/2142
+Orocó => 848/848
+Terra Nova => 646/646
+
+Mammography Unit 85 installed at Surubim  => idle service 0
+
+Frei Miguelinho => 906/1106
+Santa Maria do Cambucá => 920/920
+Surubim => 4601/4601
+Vertente do Lério => 331/577
+
+Mammography Unit 86 installed at Taquaritinga do Norte  => idle service 1537
+
+Frei Miguelinho => 200/1106
+Taquaritinga do Norte => 1840/1840
+Toritama => 1865/2313
+Vertentes => 1316/1316
+
+Mammography Unit 87 installed at Recife  => idle service 0
+
+Recife => 6758/150838
+
+Mammography Unit 88 installed at Recife  => idle service 0
+
+Recife => 6758/150838
+
+Mammography Unit 89 installed at Recife  => idle service 0
+
+Recife => 6758/150838
+
+Mammography Unit 90 installed at Itapissuma  => idle service 0
+
+Abreu e Lima => 1504/8706
+Igarassu => 1966/8724
+Ilha de Itamaracá => 1522/1522
+Itapissuma => 1766/1766
+
+Mammography Unit 91 installed at Belém do São Francisco  => idle service 5077
+
+Belém do São Francisco => 1387/1387
+Itacuruba => 294/294
+
+Mammography Unit 92 installed at Recife  => idle service 0
+
+Recife => 6758/150838
+
+Mammography Unit 93 installed at Afogados da Ingazeira  => idle service 3940
+
+Afogados da Ingazeira => 2818/2818
+
+Mammography Unit 94 installed at Custódia  => idle service 3334
+
+Betânia => 816/816
+Custódia => 2608/2608
+
+Mammography Unit 95 installed at Paudalho  => idle service 0
+
+Glória do Goitá => 1479/2094
+Paudalho => 3910/3910
+São Lourenço da Mata => 1369/8666
+
+Mammography Unit 96 installed at Belo Jardim  => idle service 0
+
+Belo Jardim => 5602/5602
+Pesqueira => 1156/4961
+
+Mammography Unit 97 installed at Recife  => idle service 0
+
+Recife => 6758/150838
+
+Mammography Unit 98 installed at Bezerros  => idle service 0
+
+Bezerros => 4870/4870
+Camocim de São Félix => 349/1321
+Riacho das Almas => 692/1426
+Sairé => 847/847
+
+Mammography Unit 99 installed at Floresta  => idle service 4186
+
+Carnaubeira da Penha => 636/636
+Floresta => 1936/1936
+
+Mammography Unit 100 installed at Petrolina  => idle service 0
+
+Petrolina => 6758/21562
+
+Mammography Unit 101 installed at Águas Belas  => idle service 4089
+
+Águas Belas => 2669/2669
+
+Mammography Unit 102 installed at Itaíba  => idle service 2867
+
+Inajá => 1098/1098
+Itaíba => 1790/1790
+Manari => 1003/1003
+
+Mammography Unit 103 installed at Garanhuns  => idle service 1502
+
+Angelim => 710/710
+Correntes => 221/1237
+Garanhuns => 3777/10535
+Palmeirina => 548/548
+
+Mammography Unit 104 installed at Paulista  => idle service 0
+
+Paulista => 6758/29457
+
+Mammography Unit 105 installed at São José do Belmonte  => idle service 3469
+
+Mirandiba => 950/950
+São José do Belmonte => 2339/2339
+
+Mammography Unit 106 installed at Brejo da Madre de Deus  => idle service 2609
+
+Brejo da Madre de Deus => 3040/3040
+Jataúba => 1109/1109
+
+Mammography Unit 107 installed at Palmares  => idle service 0
+
+Água Preta => 1445/2214
+Palmares => 4580/4580
+Xexéu => 733/953
+
+Mammography Unit 108 installed at Salgueiro  => idle service 0
+
+Parnamirim => 687/1364
+Salgueiro => 4220/4220
+Serrita => 1191/1191
+Verdejante => 660/660
+
+Mammography Unit 109 installed at Recife  => idle service 0
+
+Recife => 6758/150838
+
+Mammography Unit 110 installed at Araçoiaba  => idle service 3841
+
+Abreu e Lima => 444/8706
+Araçoiaba => 1301/1301
+Glória do Goitá => 615/2094
+Paulista => 557/29457
+
+Mammography Unit 111 installed at Jaboatão dos Guararapes  => idle service 0
+
+Jaboatão dos Guararapes => 6758/59717
+
+Mammography Unit 112 installed at Limoeiro  => idle service 6758
+
+
+Mammography Unit 113 installed at São João  => idle service 5316
+
+São João => 1442/1442
+
+Mammography Unit 114 installed at Petrolândia  => idle service 1979
+
+Jatobá => 1080/1080
+Petrolândia => 2272/2272
+Tacaratu => 1427/1427
+
+Cities covered by the equipment 0 => Abreu e Lima, 
+
+
+Cities covered by the equipment 1 => Recife, 
+
+
+Cities covered by the equipment 2 => Araripina, 
+
+
+Cities covered by the equipment 3 => Jaboatão dos Guararapes, 
+
+
+Cities covered by the equipment 4 => Paulista, 
+
+
+Cities covered by the equipment 5 => Recife, 
+
+
+Cities covered by the equipment 6 => Brejão, Caetés, Capoeiras, Jucati, Jupi, Paranatama, Venturosa, 
+
+
+Cities covered by the equipment 7 => Recife, 
+
+
+Cities covered by the equipment 8 => Garanhuns, 
+
+
+Cities covered by the equipment 9 => Bom Conselho, Correntes, Lagoa do Ouro, Saloá, Terezinha, 
+
+
+Cities covered by the equipment 10 => Recife, 
+
+
+Cities covered by the equipment 11 => Camaragibe, 
+
+
+Cities covered by the equipment 12 => Jaboatão dos Guararapes, 
+
+
+Cities covered by the equipment 13 => Recife, 
+
+
+Cities covered by the equipment 14 => Petrolina, 
+
+
+Cities covered by the equipment 15 => Petrolina, 
+
+
+Cities covered by the equipment 16 => Camaragibe, São Lourenço da Mata, 
+
+
+Cities covered by the equipment 17 => Recife, 
+
+
+Cities covered by the equipment 18 => Recife, 
+
+
+Cities covered by the equipment 19 => Vitória de Santo Antão, 
+
+
+Cities covered by the equipment 20 => Olinda, 
+
+
+Cities covered by the equipment 21 => Cabo de Santo Agostinho, 
+
+
+Cities covered by the equipment 22 => Olinda, 
+
+
+Cities covered by the equipment 23 => Santa Cruz do Capibaribe, Toritama, 
+
+
+Cities covered by the equipment 24 => Iati, 
+
+
+Cities covered by the equipment 25 => Ouricuri, Santa Cruz, 
+
+
+Cities covered by the equipment 26 => Recife, 
+
+
+Cities covered by the equipment 27 => Barreiros, Rio Formoso, São José da Coroa Grande, Tamandaré, 
+
+
+Cities covered by the equipment 28 => Recife, 
+
+
+Cities covered by the equipment 29 => Recife, 
+
+
+Cities covered by the equipment 30 => Recife, 
+
+
+Cities covered by the equipment 31 => Jaboatão dos Guararapes, 
+
+
+Cities covered by the equipment 32 => Cumaru, Feira Nova, João Alfredo, Passira, Salgadinho, 
+
+
+Cities covered by the equipment 33 => Camutanga, Ferreiros, Macaparana, Timbaúba, 
+
+
+Cities covered by the equipment 34 => Chã Grande, Gravatá, 
+
+
+Cities covered by the equipment 35 => São Lourenço da Mata, 
+
+
+Cities covered by the equipment 36 => Feira Nova, Lagoa do Carro, Limoeiro, 
+
+
+Cities covered by the equipment 37 => Condado, Goiana, 
+
+
+Cities covered by the equipment 38 => Calçado, Canhotinho, Ibirajuba, Jupi, Jurema, Lajedo, 
+
+
+Cities covered by the equipment 39 => Jaboatão dos Guararapes, 
+
+
+Cities covered by the equipment 40 => Iguaracy, Sertânia, 
+
+
+Cities covered by the equipment 41 => Olinda, 
+
+
+Cities covered by the equipment 42 => Cabo de Santo Agostinho, 
+
+
+Cities covered by the equipment 43 => Jaboatão dos Guararapes, 
+
+
+Cities covered by the equipment 44 => Jaboatão dos Guararapes, 
+
+
+Cities covered by the equipment 45 => Canhotinho, Cupira, Jaqueira, Panelas, Quipapá, São Benedito do Sul, 
+
+
+Cities covered by the equipment 46 => Calumbi, Carnaíba, Flores, Quixaba, Santa Cruz da Baixa Verde, Triunfo, 
+
+
+Cities covered by the equipment 47 => Caruaru, 
+
+
+Cities covered by the equipment 48 => Cabo de Santo Agostinho, Ipojuca, 
+
+
+Cities covered by the equipment 49 => Olinda, 
+
+
+Cities covered by the equipment 50 => Pesqueira, Sanharó, São Bento do Una, Tacaimbó, 
+
+
+Cities covered by the equipment 51 => Água Preta, Belém de Maria, Catende, Jaqueira, Joaquim Nabuco, Maraial, 
+
+
+Cities covered by the equipment 52 => Igarassu, 
+
+
+Cities covered by the equipment 53 => Chã de Alegria, Pombos, Vitória de Santo Antão, 
+
+
+Cities covered by the equipment 54 => Paulista, 
+
+
+Cities covered by the equipment 55 => Arcoverde, Pedra, 
+
+
+Cities covered by the equipment 56 => Recife, 
+
+
+Cities covered by the equipment 57 => Caruaru, 
+
+
+Cities covered by the equipment 58 => Bodocó, Exu, Granito, Moreilândia, 
+
+
+Cities covered by the equipment 59 => Brejinho, Ingazeira, Itapetim, Santa Terezinha, São José do Egito, Solidão, Tuparetama, 
+
+
+Cities covered by the equipment 60 => Olinda, 
+
+
+Cities covered by the equipment 61 => Buíque, Pedra, Tupanatinga, 
+
+
+Cities covered by the equipment 62 => Cabo de Santo Agostinho, Escada, Gameleira, Primavera, 
+
+
+Cities covered by the equipment 63 => Recife, 
+
+
+Cities covered by the equipment 64 => Carpina, Lagoa do Carro, 
+
+
+Cities covered by the equipment 65 => Recife, 
+
+
+Cities covered by the equipment 66 => Recife, 
+
+
+Cities covered by the equipment 67 => Buenos Aires, Itaquitinga, Lagoa do Carro, Lagoa de Itaenga, Nazaré da Mata, Tracunhaém, 
+
+
+Cities covered by the equipment 68 => Caruaru, 
+
+
+Cities covered by the equipment 69 => Olinda, Paulista, Recife, 
+
+
+Cities covered by the equipment 70 => Tabira, 
+
+
+Cities covered by the equipment 71 => Bom Jardim, Casinhas, Machados, Orobó, Vertente do Lério, 
+
+
+Cities covered by the equipment 72 => Jaboatão dos Guararapes, Moreno, 
+
+
+Cities covered by the equipment 73 => Recife, 
+
+
+Cities covered by the equipment 74 => Trindade, 
+
+
+Cities covered by the equipment 75 => Condado, Itambé, Macaparana, 
+
+
+Cities covered by the equipment 76 => Paulista, 
+
+
+Cities covered by the equipment 77 => Chã de Alegria, Lagoa de Itaenga, São Vicente Férrer, Vicência, 
+
+
+Cities covered by the equipment 78 => Aliança, 
+
+
+Cities covered by the equipment 79 => Serra Talhada, 
+
+
+Cities covered by the equipment 80 => Altinho, Cachoeirinha, São Caitano, 
+
+
+Cities covered by the equipment 81 => Cortês, Gameleira, Ribeirão, Sirinhaém, 
+
+
+Cities covered by the equipment 82 => Ipubi, 
+
+
+Cities covered by the equipment 83 => Caruaru, Riacho das Almas, 
+
+
+Cities covered by the equipment 84 => Cabrobó, Orocó, Terra Nova, 
+
+
+Cities covered by the equipment 85 => Frei Miguelinho, Santa Maria do Cambucá, Surubim, Vertente do Lério, 
+
+
+Cities covered by the equipment 86 => Frei Miguelinho, Taquaritinga do Norte, Toritama, Vertentes, 
+
+
+Cities covered by the equipment 87 => Recife, 
+
+
+Cities covered by the equipment 88 => Recife, 
+
+
+Cities covered by the equipment 89 => Recife, 
+
+
+Cities covered by the equipment 90 => Abreu e Lima, Igarassu, Ilha de Itamaracá, Itapissuma, 
+
+
+Cities covered by the equipment 91 => Belém do São Francisco, Itacuruba, 
+
+
+Cities covered by the equipment 92 => Recife, 
+
+
+Cities covered by the equipment 93 => Afogados da Ingazeira, 
+
+
+Cities covered by the equipment 94 => Betânia, Custódia, 
+
+
+Cities covered by the equipment 95 => Glória do Goitá, Paudalho, São Lourenço da Mata, 
+
+
+Cities covered by the equipment 96 => Belo Jardim, Pesqueira, 
+
+
+Cities covered by the equipment 97 => Recife, 
+
+
+Cities covered by the equipment 98 => Bezerros, Camocim de São Félix, Riacho das Almas, Sairé, 
+
+
+Cities covered by the equipment 99 => Carnaubeira da Penha, Floresta, 
+
+
+Cities covered by the equipment 100 => Petrolina, 
+
+
+Cities covered by the equipment 101 => Águas Belas, 
+
+
+Cities covered by the equipment 102 => Inajá, Itaíba, Manari, 
+
+
+Cities covered by the equipment 103 => Angelim, Correntes, Garanhuns, Palmeirina, 
+
+
+Cities covered by the equipment 104 => Paulista, 
+
+
+Cities covered by the equipment 105 => Mirandiba, São José do Belmonte, 
+
+
+Cities covered by the equipment 106 => Brejo da Madre de Deus, Jataúba, 
+
+
+Cities covered by the equipment 107 => Água Preta, Palmares, Xexéu, 
+
+
+Cities covered by the equipment 108 => Parnamirim, Salgueiro, Serrita, Verdejante, 
+
+
+Cities covered by the equipment 109 => Recife, 
+
+
+Cities covered by the equipment 110 => Abreu e Lima, Araçoiaba, Glória do Goitá, Paulista, 
+
+
+Cities covered by the equipment 111 => Jaboatão dos Guararapes, 
+
+
+Cities covered by the equipment 112 => 
+
+
+Cities covered by the equipment 113 => São João, 
+
+
+Cities covered by the equipment 114 => Jatobá, Petrolândia, Tacaratu, 
+
+
+
+List of mammography units in Abreu e Lima: 0, 
+
+
+List of mammography units in Afogados da Ingazeira: 93, 
+
+
+List of mammography units in Agrestina: 
+
+
+List of mammography units in Água Preta: 
+
+
+List of mammography units in Águas Belas: 101, 
+
+
+List of mammography units in Aliança: 78, 
+
+
+List of mammography units in Altinho: 
+
+
+List of mammography units in Amaraji: 
+
+
+List of mammography units in Araçoiaba: 110, 
+
+
+List of mammography units in Araripina: 2, 
+
+
+List of mammography units in Arcoverde: 55, 
+
+
+List of mammography units in Barreiros: 27, 
+
+
+List of mammography units in Belém do São Francisco: 91, 
+
+
+List of mammography units in Belo Jardim: 96, 
+
+
+List of mammography units in Bezerros: 98, 
+
+
+List of mammography units in Bodocó: 58, 
+
+
+List of mammography units in Bom Conselho: 9, 
+
+
+List of mammography units in Bom Jardim: 71, 
+
+
+List of mammography units in Bonito: 
+
+
+List of mammography units in Brejo da Madre de Deus: 106, 
+
+
+List of mammography units in Buíque: 61, 
+
+
+List of mammography units in Cabo de Santo Agostinho: 21, 42, 
+
+
+List of mammography units in Cabrobó: 84, 
+
+
+List of mammography units in Cachoeirinha: 80, 
+
+
+List of mammography units in Caetés: 6, 
+
+
+List of mammography units in Camaragibe: 11, 16, 
+
+
+List of mammography units in Camocim de São Félix: 
+
+
+List of mammography units in Canhotinho: 
+
+
+List of mammography units in Capoeiras: 
+
+
+List of mammography units in Carnaíba: 
+
+
+List of mammography units in Carpina: 64, 
+
+
+List of mammography units in Caruaru: 47, 57, 68, 83, 
+
+
+List of mammography units in Catende: 51, 
+
+
+List of mammography units in Chã Grande: 
+
+
+List of mammography units in Condado: 
+
+
+List of mammography units in Correntes: 
+
+
+List of mammography units in Cumaru: 
+
+
+List of mammography units in Cupira: 
+
+
+List of mammography units in Custódia: 94, 
+
+
+List of mammography units in Escada: 62, 
+
+
+List of mammography units in Exu: 
+
+
+List of mammography units in Feira Nova: 
+
+
+List of mammography units in Flores: 46, 
+
+
+List of mammography units in Floresta: 99, 
+
+
+List of mammography units in Gameleira: 
+
+
+List of mammography units in Garanhuns: 8, 103, 
+
+
+List of mammography units in Glória do Goitá: 
+
+
+List of mammography units in Goiana: 37, 
+
+
+List of mammography units in Gravatá: 34, 
+
+
+List of mammography units in Iati: 24, 
+
+
+List of mammography units in Ibimirim: 
+
+
+List of mammography units in Igarassu: 52, 
+
+
+List of mammography units in Ipojuca: 48, 
+
+
+List of mammography units in Ipubi: 82, 
+
+
+List of mammography units in Itaíba: 102, 
+
+
+List of mammography units in Ilha de Itamaracá: 
+
+
+List of mammography units in Itambé: 75, 
+
+
+List of mammography units in Itapissuma: 90, 
+
+
+List of mammography units in Jaboatão dos Guararapes: 3, 12, 31, 39, 43, 44, 111, 
+
+
+List of mammography units in João Alfredo: 
+
+
+List of mammography units in Lagoa do Carro: 
+
+
+List of mammography units in Lagoa de Itaenga: 
+
+
+List of mammography units in Lagoa Grande: 
+
+
+List of mammography units in Lajedo: 38, 
+
+
+List of mammography units in Limoeiro: 36, 112, 
+
+
+List of mammography units in Macaparana: 
+
+
+List of mammography units in Moreno: 72, 
+
+
+List of mammography units in Nazaré da Mata: 67, 
+
+
+List of mammography units in Olinda: 20, 22, 41, 49, 60, 69, 
+
+
+List of mammography units in Orobó: 
+
+
+List of mammography units in Ouricuri: 25, 
+
+
+List of mammography units in Palmares: 107, 
+
+
+List of mammography units in Panelas: 
+
+
+List of mammography units in Parnamirim: 
+
+
+List of mammography units in Passira: 32, 
+
+
+List of mammography units in Paudalho: 95, 
+
+
+List of mammography units in Paulista: 4, 54, 76, 104, 
+
+
+List of mammography units in Pedra: 
+
+
+List of mammography units in Pesqueira: 
+
+
+List of mammography units in Petrolândia: 114, 
+
+
+List of mammography units in Petrolina: 14, 15, 100, 
+
+
+List of mammography units in Pombos: 
+
+
+List of mammography units in Quipapá: 45, 
+
+
+List of mammography units in Recife: 1, 5, 7, 10, 13, 17, 18, 26, 28, 29, 30, 56, 63, 65, 66, 73, 87, 88, 89, 92, 97, 109, 
+
+
+List of mammography units in Riacho das Almas: 
+
+
+List of mammography units in Ribeirão: 81, 
+
+
+List of mammography units in Rio Formoso: 
+
+
+List of mammography units in Salgueiro: 108, 
+
+
+List of mammography units in Sanharó: 
+
+
+List of mammography units in Santa Cruz do Capibaribe: 23, 
+
+
+List of mammography units in Santa Maria da Boa Vista: 
+
+
+List of mammography units in São Bento do Una: 50, 
+
+
+List of mammography units in São Caitano: 
+
+
+List of mammography units in São João: 113, 
+
+
+List of mammography units in São Joaquim do Monte: 
+
+
+List of mammography units in São José da Coroa Grande: 
+
+
+List of mammography units in São José do Belmonte: 105, 
+
+
+List of mammography units in São José do Egito: 59, 
+
+
+List of mammography units in São Lourenço da Mata: 35, 
+
+
+List of mammography units in Serra Talhada: 79, 
+
+
+List of mammography units in Sertânia: 40, 
+
+
+List of mammography units in Sirinhaém: 
+
+
+List of mammography units in Surubim: 85, 
+
+
+List of mammography units in Tabira: 70, 
+
+
+List of mammography units in Tacaratu: 
+
+
+List of mammography units in Tamandaré: 
+
+
+List of mammography units in Taquaritinga do Norte: 86, 
+
+
+List of mammography units in Timbaúba: 33, 
+
+
+List of mammography units in Toritama: 
+
+
+List of mammography units in Trindade: 74, 
+
+
+List of mammography units in Triunfo: 
+
+
+List of mammography units in Tupanatinga: 
+
+
+List of mammography units in Vertentes: 
+
+
+List of mammography units in Vicência: 77, 
+
+
+List of mammography units in Vitória de Santo Antão: 19, 53, 
+
+
+
+Demand coverage
+City Abreu e Lima:  8706/8706 => 100.0%
+Mammography Unit 0 installed at Abreu e Lima => 6758/8706
+Mammography Unit 90 installed at Itapissuma => 1504/8706
+Mammography Unit 110 installed at Araçoiaba => 444/8706
+City Afogados da Ingazeira:  2818/2818 => 100.0%
+Mammography Unit 93 installed at Afogados da Ingazeira => 2818/2818
+City Afrânio:  0/1194 => 0.0%
+City Agrestina:  0/1670 => 0.0%
+City Água Preta:  2214/2214 => 100.0%
+Mammography Unit 51 installed at Catende => 769/2214
+Mammography Unit 107 installed at Palmares => 1445/2214
+City Águas Belas:  2669/2669 => 100.0%
+Mammography Unit 101 installed at Águas Belas => 2669/2669
+City Alagoinha:  0/1021 => 0.0%
+City Aliança:  2853/2853 => 100.0%
+Mammography Unit 78 installed at Aliança => 2853/2853
+City Altinho:  1722/1722 => 100.0%
+Mammography Unit 80 installed at Cachoeirinha => 1722/1722
+City Amaraji:  0/1509 => 0.0%
+City Angelim:  710/710 => 100.0%
+Mammography Unit 103 installed at Garanhuns => 710/710
+City Araçoiaba:  1301/1301 => 100.0%
+Mammography Unit 110 installed at Araçoiaba => 1301/1301
+City Araripina:  5262/5262 => 100.0%
+Mammography Unit 2 installed at Araripina => 5262/5262
+City Arcoverde:  5545/5545 => 100.0%
+Mammography Unit 55 installed at Arcoverde => 5545/5545
+City Barra de Guabiraba:  0/843 => 0.0%
+City Barreiros:  3002/3002 => 100.0%
+Mammography Unit 27 installed at Barreiros => 3002/3002
+City Belém de Maria:  727/727 => 100.0%
+Mammography Unit 51 installed at Catende => 727/727
+City Belém do São Francisco:  1387/1387 => 100.0%
+Mammography Unit 91 installed at Belém do São Francisco => 1387/1387
+City Belo Jardim:  5602/5602 => 100.0%
+Mammography Unit 96 installed at Belo Jardim => 5602/5602
+City Betânia:  816/816 => 100.0%
+Mammography Unit 94 installed at Custódia => 816/816
+City Bezerros:  4870/4870 => 100.0%
+Mammography Unit 98 installed at Bezerros => 4870/4870
+City Bodocó:  2309/2309 => 100.0%
+Mammography Unit 58 installed at Bodocó => 2309/2309
+City Bom Conselho:  3266/3266 => 100.0%
+Mammography Unit 9 installed at Bom Conselho => 3266/3266
+City Bom Jardim:  2888/2888 => 100.0%
+Mammography Unit 71 installed at Bom Jardim => 2888/2888
+City Bonito:  0/2704 => 0.0%
+City Brejão:  620/620 => 100.0%
+Mammography Unit 6 installed at Caetés => 620/620
+City Brejinho:  537/537 => 100.0%
+Mammography Unit 59 installed at São José do Egito => 537/537
+City Brejo da Madre de Deus:  3040/3040 => 100.0%
+Mammography Unit 106 installed at Brejo da Madre de Deus => 3040/3040
+City Buenos Aires:  945/945 => 100.0%
+Mammography Unit 67 installed at Nazaré da Mata => 945/945
+City Buíque:  3341/3341 => 100.0%
+Mammography Unit 61 installed at Buíque => 3341/3341
+City Cabo de Santo Agostinho:  15180/15180 => 100.0%
+Mammography Unit 21 installed at Cabo de Santo Agostinho => 6758/15180
+Mammography Unit 42 installed at Cabo de Santo Agostinho => 6758/15180
+Mammography Unit 48 installed at Ipojuca => 1166/15180
+Mammography Unit 62 installed at Escada => 498/15180
+City Cabrobó:  2142/2142 => 100.0%
+Mammography Unit 84 installed at Cabrobó => 2142/2142
+City Cachoeirinha:  1431/1431 => 100.0%
+Mammography Unit 80 installed at Cachoeirinha => 1431/1431
+City Caetés:  1703/1703 => 100.0%
+Mammography Unit 6 installed at Caetés => 1703/1703
+City Calçado:  754/754 => 100.0%
+Mammography Unit 38 installed at Lajedo => 754/754
+City Calumbi:  419/419 => 100.0%
+Mammography Unit 46 installed at Flores => 419/419
+City Camaragibe:  12977/12977 => 100.0%
+Mammography Unit 11 installed at Camaragibe => 6758/12977
+Mammography Unit 16 installed at Camaragibe => 6219/12977
+City Camocim de São Félix:  349/1321 => 26.419379258137777%
+Mammography Unit 98 installed at Bezerros => 349/1321
+City Camutanga:  611/611 => 100.0%
+Mammography Unit 33 installed at Timbaúba => 611/611
+City Canhotinho:  1671/1671 => 100.0%
+Mammography Unit 38 installed at Lajedo => 1197/1671
+Mammography Unit 45 installed at Quipapá => 474/1671
+City Capoeiras:  1345/1345 => 100.0%
+Mammography Unit 6 installed at Caetés => 1345/1345
+City Carnaíba:  1393/1393 => 100.0%
+Mammography Unit 46 installed at Flores => 1393/1393
+City Carnaubeira da Penha:  636/636 => 100.0%
+Mammography Unit 99 installed at Floresta => 636/636
+City Carpina:  6637/6637 => 100.0%
+Mammography Unit 64 installed at Carpina => 6637/6637
+City Caruaru:  26298/26298 => 100.0%
+Mammography Unit 47 installed at Caruaru => 6758/26298
+Mammography Unit 57 installed at Caruaru => 6758/26298
+Mammography Unit 68 installed at Caruaru => 6758/26298
+Mammography Unit 83 installed at Caruaru => 6024/26298
+City Casinhas:  967/967 => 100.0%
+Mammography Unit 71 installed at Bom Jardim => 967/967
+City Catende:  2807/2807 => 100.0%
+Mammography Unit 51 installed at Catende => 2807/2807
+City Cedro:  0/724 => 0.0%
+City Chã de Alegria:  914/914 => 100.0%
+Mammography Unit 53 installed at Vitória de Santo Antão => 752/914
+Mammography Unit 77 installed at Vicência => 162/914
+City Chã Grande:  522/1461 => 35.728952772073924%
+Mammography Unit 34 installed at Gravatá => 522/1461
+City Condado:  1858/1858 => 100.0%
+Mammography Unit 37 installed at Goiana => 514/1858
+Mammography Unit 75 installed at Itambé => 1344/1858
+City Correntes:  1237/1237 => 100.0%
+Mammography Unit 9 installed at Bom Conselho => 1016/1237
+Mammography Unit 103 installed at Garanhuns => 221/1237
+City Cortês:  866/866 => 100.0%
+Mammography Unit 81 installed at Ribeirão => 866/866
+City Cumaru:  1314/1314 => 100.0%
+Mammography Unit 32 installed at Passira => 1314/1314
+City Cupira:  1775/1775 => 100.0%
+Mammography Unit 45 installed at Quipapá => 1775/1775
+City Custódia:  2608/2608 => 100.0%
+Mammography Unit 94 installed at Custódia => 2608/2608
+City Dormentes:  0/1133 => 0.0%
+City Escada:  4888/4888 => 100.0%
+Mammography Unit 62 installed at Escada => 4888/4888
+City Exu:  2156/2156 => 100.0%
+Mammography Unit 58 installed at Bodocó => 2156/2156
+City Feira Nova:  1626/1626 => 100.0%
+Mammography Unit 32 installed at Passira => 175/1626
+Mammography Unit 36 installed at Limoeiro => 1451/1626
+City Fernando de Noronha:  0/280 => 0.0%
+City Ferreiros:  867/867 => 100.0%
+Mammography Unit 33 installed at Timbaúba => 867/867
+City Flores:  1669/1669 => 100.0%
+Mammography Unit 46 installed at Flores => 1669/1669
+City Floresta:  1936/1936 => 100.0%
+Mammography Unit 99 installed at Floresta => 1936/1936
+City Frei Miguelinho:  1106/1106 => 100.0%
+Mammography Unit 85 installed at Surubim => 906/1106
+Mammography Unit 86 installed at Taquaritinga do Norte => 200/1106
+City Gameleira:  1843/1843 => 100.0%
+Mammography Unit 62 installed at Escada => 452/1843
+Mammography Unit 81 installed at Ribeirão => 1391/1843
+City Garanhuns:  10535/10535 => 100.0%
+Mammography Unit 8 installed at Garanhuns => 6758/10535
+Mammography Unit 103 installed at Garanhuns => 3777/10535
+City Glória do Goitá:  2094/2094 => 100.0%
+Mammography Unit 95 installed at Paudalho => 1479/2094
+Mammography Unit 110 installed at Araçoiaba => 615/2094
+City Goiana:  6244/6244 => 100.0%
+Mammography Unit 37 installed at Goiana => 6244/6244
+City Granito:  460/460 => 100.0%
+Mammography Unit 58 installed at Bodocó => 460/460
+City Gravatá:  6236/6236 => 100.0%
+Mammography Unit 34 installed at Gravatá => 6236/6236
+City Iati:  1210/1210 => 100.0%
+Mammography Unit 24 installed at Iati => 1210/1210
+City Ibimirim:  0/1813 => 0.0%
+City Ibirajuba:  511/511 => 100.0%
+Mammography Unit 38 installed at Lajedo => 511/511
+City Igarassu:  8724/8724 => 100.0%
+Mammography Unit 52 installed at Igarassu => 6758/8724
+Mammography Unit 90 installed at Itapissuma => 1966/8724
+City Iguaracy:  909/909 => 100.0%
+Mammography Unit 40 installed at Sertânia => 909/909
+City Inajá:  1098/1098 => 100.0%
+Mammography Unit 102 installed at Itaíba => 1098/1098
+City Ingazeira:  336/336 => 100.0%
+Mammography Unit 59 installed at São José do Egito => 336/336
+City Ipojuca:  5592/5592 => 100.0%
+Mammography Unit 48 installed at Ipojuca => 5592/5592
+City Ipubi:  1722/1722 => 100.0%
+Mammography Unit 82 installed at Ipubi => 1722/1722
+City Itacuruba:  294/294 => 100.0%
+Mammography Unit 91 installed at Belém do São Francisco => 294/294
+City Itaíba:  1790/1790 => 100.0%
+Mammography Unit 102 installed at Itaíba => 1790/1790
+City Ilha de Itamaracá:  1522/1522 => 100.0%
+Mammography Unit 90 installed at Itapissuma => 1522/1522
+City Itambé:  2553/2553 => 100.0%
+Mammography Unit 75 installed at Itambé => 2553/2553
+City Itapetim:  1087/1087 => 100.0%
+Mammography Unit 59 installed at São José do Egito => 1087/1087
+City Itapissuma:  1766/1766 => 100.0%
+Mammography Unit 90 installed at Itapissuma => 1766/1766
+City Itaquitinga:  1138/1138 => 100.0%
+Mammography Unit 67 installed at Nazaré da Mata => 1138/1138
+City Jaboatão dos Guararapes:  49308/59717 => 82.56945258469113%
+Mammography Unit 3 installed at Jaboatão dos Guararapes => 6758/59717
+Mammography Unit 12 installed at Jaboatão dos Guararapes => 6758/59717
+Mammography Unit 31 installed at Jaboatão dos Guararapes => 6758/59717
+Mammography Unit 39 installed at Jaboatão dos Guararapes => 6758/59717
+Mammography Unit 43 installed at Jaboatão dos Guararapes => 6758/59717
+Mammography Unit 44 installed at Jaboatão dos Guararapes => 6758/59717
+Mammography Unit 72 installed at Moreno => 2002/59717
+Mammography Unit 111 installed at Jaboatão dos Guararapes => 6758/59717
+City Jaqueira:  747/747 => 100.0%
+Mammography Unit 45 installed at Quipapá => 114/747
+Mammography Unit 51 installed at Catende => 633/747
+City Jataúba:  1109/1109 => 100.0%
+Mammography Unit 106 installed at Brejo da Madre de Deus => 1109/1109
+City Jatobá:  1080/1080 => 100.0%
+Mammography Unit 114 installed at Petrolândia => 1080/1080
+City João Alfredo:  2310/2310 => 100.0%
+Mammography Unit 32 installed at Passira => 2310/2310
+City Joaquim Nabuco:  1063/1063 => 100.0%
+Mammography Unit 51 installed at Catende => 1063/1063
+City Jucati:  705/705 => 100.0%
+Mammography Unit 6 installed at Caetés => 705/705
+City Jupi:  969/969 => 100.0%
+Mammography Unit 6 installed at Caetés => 403/969
+Mammography Unit 38 installed at Lajedo => 566/969
+City Jurema:  973/973 => 100.0%
+Mammography Unit 38 installed at Lajedo => 973/973
+City Lagoa do Carro:  1282/1282 => 100.0%
+Mammography Unit 36 installed at Limoeiro => 578/1282
+Mammography Unit 64 installed at Carpina => 121/1282
+Mammography Unit 67 installed at Nazaré da Mata => 583/1282
+City Lagoa de Itaenga:  1513/1513 => 100.0%
+Mammography Unit 67 installed at Nazaré da Mata => 340/1513
+Mammography Unit 77 installed at Vicência => 1173/1513
+City Lagoa do Ouro:  873/873 => 100.0%
+Mammography Unit 9 installed at Bom Conselho => 873/873
+City Lagoa dos Gatos:  0/1069 => 0.0%
+City Lagoa Grande:  0/1470 => 0.0%
+City Lajedo:  2757/2757 => 100.0%
+Mammography Unit 38 installed at Lajedo => 2757/2757
+City Limoeiro:  4729/4729 => 100.0%
+Mammography Unit 36 installed at Limoeiro => 4729/4729
+City Macaparana:  1772/1772 => 100.0%
+Mammography Unit 33 installed at Timbaúba => 935/1772
+Mammography Unit 75 installed at Itambé => 837/1772
+City Machados:  956/956 => 100.0%
+Mammography Unit 71 installed at Bom Jardim => 956/956
+City Manari:  1003/1003 => 100.0%
+Mammography Unit 102 installed at Itaíba => 1003/1003
+City Maraial:  759/759 => 100.0%
+Mammography Unit 51 installed at Catende => 759/759
+City Mirandiba:  950/950 => 100.0%
+Mammography Unit 105 installed at São José do Belmonte => 950/950
+City Moreno:  4756/4756 => 100.0%
+Mammography Unit 72 installed at Moreno => 4756/4756
+City Nazaré da Mata:  2763/2763 => 100.0%
+Mammography Unit 67 installed at Nazaré da Mata => 2763/2763
+City Olinda:  36518/36518 => 100.0%
+Mammography Unit 20 installed at Olinda => 6758/36518
+Mammography Unit 22 installed at Olinda => 6758/36518
+Mammography Unit 41 installed at Olinda => 6758/36518
+Mammography Unit 49 installed at Olinda => 6758/36518
+Mammography Unit 60 installed at Olinda => 6758/36518
+Mammography Unit 69 installed at Olinda => 2728/36518
+City Orobó:  1701/1701 => 100.0%
+Mammography Unit 71 installed at Bom Jardim => 1701/1701
+City Orocó:  848/848 => 100.0%
+Mammography Unit 84 installed at Cabrobó => 848/848
+City Ouricuri:  4261/4261 => 100.0%
+Mammography Unit 25 installed at Ouricuri => 4261/4261
+City Palmares:  4580/4580 => 100.0%
+Mammography Unit 107 installed at Palmares => 4580/4580
+City Palmeirina:  548/548 => 100.0%
+Mammography Unit 103 installed at Garanhuns => 548/548
+City Panelas:  1701/1701 => 100.0%
+Mammography Unit 45 installed at Quipapá => 1701/1701
+City Paranatama:  779/779 => 100.0%
+Mammography Unit 6 installed at Caetés => 779/779
+City Parnamirim:  687/1364 => 50.36656891495601%
+Mammography Unit 108 installed at Salgueiro => 687/1364
+City Passira:  2280/2280 => 100.0%
+Mammography Unit 32 installed at Passira => 2280/2280
+City Paudalho:  3910/3910 => 100.0%
+Mammography Unit 95 installed at Paudalho => 3910/3910
+City Paulista:  29457/29457 => 100.0%
+Mammography Unit 4 installed at Paulista => 6758/29457
+Mammography Unit 54 installed at Paulista => 6758/29457
+Mammography Unit 69 installed at Olinda => 1868/29457
+Mammography Unit 76 installed at Paulista => 6758/29457
+Mammography Unit 104 installed at Paulista => 6758/29457
+Mammography Unit 110 installed at Araçoiaba => 557/29457
+City Pedra:  1477/1477 => 100.0%
+Mammography Unit 55 installed at Arcoverde => 1213/1477
+Mammography Unit 61 installed at Buíque => 264/1477
+City Pesqueira:  1709/4961 => 34.44869985889942%
+Mammography Unit 50 installed at São Bento do Una => 553/4961
+Mammography Unit 96 installed at Belo Jardim => 1156/4961
+City Petrolândia:  2272/2272 => 100.0%
+Mammography Unit 114 installed at Petrolândia => 2272/2272
+City Petrolina:  20274/21562 => 94.02652815137742%
+Mammography Unit 14 installed at Petrolina => 6758/21562
+Mammography Unit 15 installed at Petrolina => 6758/21562
+Mammography Unit 100 installed at Petrolina => 6758/21562
+City Poção:  0/888 => 0.0%
+City Pombos:  1862/1862 => 100.0%
+Mammography Unit 53 installed at Vitória de Santo Antão => 1862/1862
+City Primavera:  920/920 => 100.0%
+Mammography Unit 62 installed at Escada => 920/920
+City Quipapá:  1737/1737 => 100.0%
+Mammography Unit 45 installed at Quipapá => 1737/1737
+City Quixaba:  479/479 => 100.0%
+Mammography Unit 46 installed at Flores => 479/479
+City Recife:  150838/150838 => 100.0%
+Mammography Unit 1 installed at Recife => 6758/150838
+Mammography Unit 5 installed at Recife => 6758/150838
+Mammography Unit 7 installed at Recife => 6758/150838
+Mammography Unit 10 installed at Recife => 6758/150838
+Mammography Unit 13 installed at Recife => 6758/150838
+Mammography Unit 17 installed at Recife => 6758/150838
+Mammography Unit 18 installed at Recife => 6758/150838
+Mammography Unit 26 installed at Recife => 6758/150838
+Mammography Unit 28 installed at Recife => 6758/150838
+Mammography Unit 29 installed at Recife => 6758/150838
+Mammography Unit 30 installed at Recife => 6758/150838
+Mammography Unit 56 installed at Recife => 6758/150838
+Mammography Unit 63 installed at Recife => 6758/150838
+Mammography Unit 65 installed at Recife => 6758/150838
+Mammography Unit 66 installed at Recife => 6758/150838
+Mammography Unit 69 installed at Olinda => 2162/150838
+Mammography Unit 73 installed at Recife => 6758/150838
+Mammography Unit 87 installed at Recife => 6758/150838
+Mammography Unit 88 installed at Recife => 6758/150838
+Mammography Unit 89 installed at Recife => 6758/150838
+Mammography Unit 92 installed at Recife => 6758/150838
+Mammography Unit 97 installed at Recife => 6758/150838
+Mammography Unit 109 installed at Recife => 6758/150838
+City Riacho das Almas:  1426/1426 => 100.0%
+Mammography Unit 83 installed at Caruaru => 734/1426
+Mammography Unit 98 installed at Bezerros => 692/1426
+City Ribeirão:  3406/3406 => 100.0%
+Mammography Unit 81 installed at Ribeirão => 3406/3406
+City Rio Formoso:  1036/1565 => 66.19808306709265%
+Mammography Unit 27 installed at Barreiros => 1036/1565
+City Sairé:  847/847 => 100.0%
+Mammography Unit 98 installed at Bezerros => 847/847
+City Salgadinho:  679/679 => 100.0%
+Mammography Unit 32 installed at Passira => 679/679
+City Salgueiro:  4220/4220 => 100.0%
+Mammography Unit 108 installed at Salgueiro => 4220/4220
+City Saloá:  1121/1121 => 100.0%
+Mammography Unit 9 installed at Bom Conselho => 1121/1121
+City Sanharó:  1596/1596 => 100.0%
+Mammography Unit 50 installed at São Bento do Una => 1596/1596
+City Santa Cruz:  851/851 => 100.0%
+Mammography Unit 25 installed at Ouricuri => 851/851
+City Santa Cruz da Baixa Verde:  857/857 => 100.0%
+Mammography Unit 46 installed at Flores => 857/857
+City Santa Cruz do Capibaribe:  6310/6310 => 100.0%
+Mammography Unit 23 installed at Santa Cruz do Capibaribe => 6310/6310
+City Santa Filomena:  0/835 => 0.0%
+City Santa Maria da Boa Vista:  0/2501 => 0.0%
+City Santa Maria do Cambucá:  920/920 => 100.0%
+Mammography Unit 85 installed at Surubim => 920/920
+City Santa Terezinha:  771/771 => 100.0%
+Mammography Unit 59 installed at São José do Egito => 771/771
+City São Benedito do Sul:  957/957 => 100.0%
+Mammography Unit 45 installed at Quipapá => 957/957
+City São Bento do Una:  3696/3696 => 100.0%
+Mammography Unit 50 installed at São Bento do Una => 3696/3696
+City São Caitano:  2522/2522 => 100.0%
+Mammography Unit 80 installed at Cachoeirinha => 2522/2522
+City São João:  1442/1442 => 100.0%
+Mammography Unit 113 installed at São João => 1442/1442
+City São Joaquim do Monte:  0/1469 => 0.0%
+City São José da Coroa Grande:  1322/1322 => 100.0%
+Mammography Unit 27 installed at Barreiros => 1322/1322
+City São José do Belmonte:  2339/2339 => 100.0%
+Mammography Unit 105 installed at São José do Belmonte => 2339/2339
+City São José do Egito:  2485/2485 => 100.0%
+Mammography Unit 59 installed at São José do Egito => 2485/2485
+City São Lourenço da Mata:  8666/8666 => 100.0%
+Mammography Unit 16 installed at Camaragibe => 539/8666
+Mammography Unit 35 installed at São Lourenço da Mata => 6758/8666
+Mammography Unit 95 installed at Paudalho => 1369/8666
+City São Vicente Férrer:  1195/1195 => 100.0%
+Mammography Unit 77 installed at Vicência => 1195/1195
+City Serra Talhada:  6174/6174 => 100.0%
+Mammography Unit 79 installed at Serra Talhada => 6174/6174
+City Serrita:  1191/1191 => 100.0%
+Mammography Unit 108 installed at Salgueiro => 1191/1191
+City Sertânia:  2557/2557 => 100.0%
+Mammography Unit 40 installed at Sertânia => 2557/2557
+City Sirinhaém:  1095/2630 => 41.634980988593156%
+Mammography Unit 81 installed at Ribeirão => 1095/2630
+City Moreilândia:  757/757 => 100.0%
+Mammography Unit 58 installed at Bodocó => 757/757
+City Solidão:  395/395 => 100.0%
+Mammography Unit 59 installed at São José do Egito => 395/395
+City Surubim:  4601/4601 => 100.0%
+Mammography Unit 85 installed at Surubim => 4601/4601
+City Tabira:  1978/1978 => 100.0%
+Mammography Unit 70 installed at Tabira => 1978/1978
+City Tacaimbó:  913/913 => 100.0%
+Mammography Unit 50 installed at São Bento do Una => 913/913
+City Tacaratu:  1427/1427 => 100.0%
+Mammography Unit 114 installed at Petrolândia => 1427/1427
+City Tamandaré:  1398/1398 => 100.0%
+Mammography Unit 27 installed at Barreiros => 1398/1398
+City Taquaritinga do Norte:  1840/1840 => 100.0%
+Mammography Unit 86 installed at Taquaritinga do Norte => 1840/1840
+City Terezinha:  482/482 => 100.0%
+Mammography Unit 9 installed at Bom Conselho => 482/482
+City Terra Nova:  646/646 => 100.0%
+Mammography Unit 84 installed at Cabrobó => 646/646
+City Timbaúba:  4345/4345 => 100.0%
+Mammography Unit 33 installed at Timbaúba => 4345/4345
+City Toritama:  2313/2313 => 100.0%
+Mammography Unit 23 installed at Santa Cruz do Capibaribe => 448/2313
+Mammography Unit 86 installed at Taquaritinga do Norte => 1865/2313
+City Tracunhaém:  989/989 => 100.0%
+Mammography Unit 67 installed at Nazaré da Mata => 989/989
+City Trindade:  1699/1699 => 100.0%
+Mammography Unit 74 installed at Trindade => 1699/1699
+City Triunfo:  1217/1217 => 100.0%
+Mammography Unit 46 installed at Flores => 1217/1217
+City Tupanatinga:  1535/1535 => 100.0%
+Mammography Unit 61 installed at Buíque => 1535/1535
+City Tuparetama:  635/635 => 100.0%
+Mammography Unit 59 installed at São José do Egito => 635/635
+City Venturosa:  1203/1203 => 100.0%
+Mammography Unit 6 installed at Caetés => 1203/1203
+City Verdejante:  660/660 => 100.0%
+Mammography Unit 108 installed at Salgueiro => 660/660
+City Vertente do Lério:  577/577 => 100.0%
+Mammography Unit 71 installed at Bom Jardim => 246/577
+Mammography Unit 85 installed at Surubim => 331/577
+City Vertentes:  1316/1316 => 100.0%
+Mammography Unit 86 installed at Taquaritinga do Norte => 1316/1316
+City Vicência:  2304/2304 => 100.0%
+Mammography Unit 77 installed at Vicência => 2304/2304
+City Vitória de Santo Antão:  10902/10902 => 100.0%
+Mammography Unit 19 installed at Vitória de Santo Antão => 6758/10902
+Mammography Unit 53 installed at Vitória de Santo Antão => 4144/10902
+City Xexéu:  733/953 => 76.91500524658971%
+Mammography Unit 107 installed at Palmares => 733/953
+Coverage
+1.0
+1.0
+0.0
+0.0
+1.0
+1.0
+0.0
+1.0
+1.0
+0.0
+1.0
+1.0
+1.0
+1.0
+0.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+0.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+0.26419379258137776
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+0.0
+1.0
+0.35728952772073924
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+0.0
+1.0
+1.0
+1.0
+0.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+0.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+0.8256945258469113
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+0.0
+0.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+0.5036656891495601
+1.0
+1.0
+1.0
+1.0
+0.3444869985889942
+1.0
+0.9402652815137742
+0.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+0.6619808306709265
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+0.0
+0.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+0.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+0.41634980988593157
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+0.7691500524658972
